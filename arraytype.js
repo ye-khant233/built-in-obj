@@ -1,11 +1,11 @@
-// console.dir(Array);;
+console.dir(Array);;
 // const nums = [1,2,3,4];
 // const char = ["a","c","d","e"]
 // const emojis = ["0","2"]
 
 // // const results = nums.concat(char).concat(emojis)
 
-// const results = [...nums,...char,...emojis]
+// // const results = [...nums,...char,...emojis]
 
 // console.log(results);
 
@@ -16,11 +16,11 @@
 // arr.push("cc")
 // console.log(arr);
 
-const nums = [1,3,2,5]
-nums.pop()
-nums.pop()
-nums.pop()
-console.log(nums);
+// const nums = [1,3,2,5]
+// nums.pop()
+// nums.pop()
+// nums.pop()
+// console.log(nums);
 // const fruits = ["Apple", "Banana", "Cherry", "Date", "Elderberry", "Fig", "Grape", "Honeydew", "Kiwi", "Lemon"];
 
 // console.log(fruits.length);
