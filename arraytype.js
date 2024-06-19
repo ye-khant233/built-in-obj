@@ -50,3 +50,30 @@ console.dir(Array);;
 // console.log(parts);
 
 // console.log(fruits);
+
+
+
+// console.log(Array);
+
+
+const fruits = ["apple", "banana", "orange", "mango", "kiwi", "grapes"];
+
+// console.log(fruits);
+
+// for(let i = 0 ;  i<fruits.length; i++)
+
+//  console.log(fruits[i]);
+
+
+
+// for (fruit of fruits) {
+//     console.log(fruit);
+// }
+
+fruits.forEach((el,index,arr)=>console.log(el,index,arr))
+
+
+
+
+
+
