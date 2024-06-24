@@ -5,7 +5,7 @@ console.dir(Array);;
 
 // // const results = nums.concat(char).concat(emojis)
 
-// // const results = [...nums,...char,...emojis]
+// // const results = [...nxums,...char,...emojis]
 
 // console.log(results);
 
@@ -71,6 +71,9 @@ const fruits = ["apple", "banana", "orange", "mango", "kiwi", "grapes"];
 // }
 
 fruits.forEach((el,index,arr)=>console.log(el,index,arr))
+
+
+
 
 
 
